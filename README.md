@@ -2,7 +2,8 @@
 Wrote this little game, over the week-end using Java.
 
 
-*How to run?*
+
+**How to run?**
  1. Download all these files and place them in a folder.
  2. You must have JVM (Java Virtual Machine) installed on your computer.
  
