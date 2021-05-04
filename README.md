@@ -11,7 +11,7 @@ Wrote this little CMD based game, using Java.
  
  3. Open CMD in the folder where you stored these files.
  4. Type the follwing commands to run...
-'''
+```
    javac Main.java TicTacToe.java Game.java Value.java 
    java Main
-'''
+```
